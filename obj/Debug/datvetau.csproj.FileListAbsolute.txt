@@ -1,0 +1,10 @@
+C:\Users\Ad\source\repos\datvetau\bin\Debug\datvetau.exe.config
+C:\Users\Ad\source\repos\datvetau\bin\Debug\datvetau.exe
+C:\Users\Ad\source\repos\datvetau\bin\Debug\datvetau.pdb
+C:\Users\Ad\source\repos\datvetau\obj\Debug\datvetau.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\datvetau\obj\Debug\datvetau.Form1.resources
+C:\Users\Ad\source\repos\datvetau\obj\Debug\datvetau.Properties.Resources.resources
+C:\Users\Ad\source\repos\datvetau\obj\Debug\datvetau.csproj.GenerateResource.cache
+C:\Users\Ad\source\repos\datvetau\obj\Debug\datvetau.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\datvetau\obj\Debug\datvetau.exe
+C:\Users\Ad\source\repos\datvetau\obj\Debug\datvetau.pdb
